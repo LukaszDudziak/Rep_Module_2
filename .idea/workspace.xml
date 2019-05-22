@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fb99920-b2ab-4d57-ac56-c34ced621722" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/d1_home/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d1_home/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d1_home/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d1_home/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/d1_home/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/Inheritance/AdvancedCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/Inheritance/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/Inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/Inheritance/HourlyEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/Inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d2/Inheritance/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,77 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/d1/Methods/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="30" selection-start-line="4" selection-start-column="3" selection-end-line="7" selection-end-column="30" />
-              <folding>
-                <element signature="e#209#210#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#432#433#0" expanded="true" />
-                <element signature="e#468#469#0" expanded="true" />
-                <element signature="e#495#496#0" expanded="true" />
-                <element signature="e#521#522#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#561#562#0" expanded="true" />
-                <element signature="e#592#593#0" expanded="true" />
-                <element signature="e#623#624#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/d1/Constructor/Burger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-              <folding>
-                <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/d1/Constructor/Calculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
-                <element signature="e#671#672#0" expanded="true" />
-                <element signature="e#722#723#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/d1/Constructor/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/d1_home/BankAccount.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -113,19 +43,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/d1_home/Author.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/d1_home/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+            <state relative-caret-position="150">
+              <caret line="35" column="50" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
               <folding>
                 <element signature="e#711#712#0" expanded="true" />
                 <element signature="e#745#746#0" expanded="true" />
@@ -157,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/d1_home/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="51" column="24" lean-forward="true" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+            <state relative-caret-position="240">
+              <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#243#244#0" expanded="true" />
@@ -182,11 +103,92 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/d1_home/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+            <state relative-caret-position="255">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/d2/Inheritance/AdvancedCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/d2/Inheritance/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/d2/Inheritance/HourlyEmployee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="15" />
+              <folding>
+                <element signature="e#122#123#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/d2/Inheritance/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+              <folding>
+                <element signature="e#642#643#0" expanded="true" />
+                <element signature="e#671#672#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/d2/Inheritance/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <folding>
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/d2/Inheritance/Shape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <folding>
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -222,9 +224,15 @@
         <option value="$PROJECT_DIR$/src/d1/Constructor/Person.java" />
         <option value="$PROJECT_DIR$/src/d1_home/BankAccount.java" />
         <option value="$PROJECT_DIR$/src/d1_home/Author.java" />
+        <option value="$PROJECT_DIR$/src/d1_home/Main.java" />
         <option value="$PROJECT_DIR$/src/d1_home/User.java" />
         <option value="$PROJECT_DIR$/src/d1_home/Book.java" />
-        <option value="$PROJECT_DIR$/src/d1_home/Main.java" />
+        <option value="$PROJECT_DIR$/src/d2/Inheritance/AdvancedCalculator.java" />
+        <option value="$PROJECT_DIR$/src/d2/Inheritance/Shape.java" />
+        <option value="$PROJECT_DIR$/src/d2/Inheritance/Circle.java" />
+        <option value="$PROJECT_DIR$/src/d2/Inheritance/Employee.java" />
+        <option value="$PROJECT_DIR$/src/d2/Inheritance/HourlyEmployee.java" />
+        <option value="$PROJECT_DIR$/src/d2/Inheritance/Main.java" />
       </list>
     </option>
   </component>
@@ -259,6 +267,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="d1_home" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Rep m2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rep m2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="d2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Rep m2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rep m2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="d2" type="462c0819:PsiDirectoryNode" />
+              <item name="Inheritance" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -291,20 +312,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="FirstClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="d1.FirstClass.FirstClass" />
-      <module name="Rep m2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="d1.FirstClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="d1.Methods.Main" />
       <module name="Rep m2" />
@@ -344,6 +352,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d2.Inheritance.Main" />
+      <module name="Rep m2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="d2.Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="d1.Attribute.Main" />
       <module name="Rep m2" />
@@ -359,11 +380,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.FirstClass" />
       </list>
     </recent_temporary>
   </component>
@@ -379,12 +400,12 @@
       <updated>1558369668736</updated>
       <workItem from="1558369672710" duration="3766000" />
       <workItem from="1558469146623" duration="148000" />
-      <workItem from="1558515005861" duration="6944000" />
+      <workItem from="1558515005861" duration="10033000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10858000" />
+    <option name="totallyTimeSpent" value="13947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -619,10 +640,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/d1_home/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#787#788#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/d1_home/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+        <state relative-caret-position="150">
+          <caret line="35" column="50" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
           <folding>
             <element signature="e#711#712#0" expanded="true" />
             <element signature="e#745#746#0" expanded="true" />
@@ -650,36 +697,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/d1_home/User.java">
+    <entry file="file://$PROJECT_DIR$/src/d2/AdvancedCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="51" column="24" lean-forward="true" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#707#708#0" expanded="true" />
-            <element signature="e#753#754#0" expanded="true" />
-            <element signature="e#787#788#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/d1_home/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+        <state relative-caret-position="255">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d2/Inheritance/AdvancedCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d2/Inheritance/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d2/Inheritance/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d2/Inheritance/HourlyEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="15" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d2/Inheritance/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <folding>
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d2/Inheritance/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
         </state>
       </provider>
     </entry>
