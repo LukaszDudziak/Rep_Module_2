@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fb99920-b2ab-4d57-ac56-c34ced621722" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/d1/Methods/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/Methods/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/Methods/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d1/Methods/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/d1/Attribute/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/d1/Attribute/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/d1/Attribute/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/d1/Attribute/Person.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,8 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -37,20 +38,83 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/d1/Attribute/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+              <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/d1/Attribute/Person.java">
+        <entry file="file://$PROJECT_DIR$/src/d1/Methods/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            <state relative-caret-position="180">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#98#99#0" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/d1/Methods/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+              <folding>
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+                <element signature="e#592#593#0" expanded="true" />
+                <element signature="e#623#624#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/d1/Methods/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/d1/Methods/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+              <folding>
+                <element signature="e#121#122#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#491#492#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -92,8 +156,12 @@
         <option value="$PROJECT_DIR$/src/d1/FirstClass/Cat.java" />
         <option value="$PROJECT_DIR$/src/d1/FirstClass/FirstClass.java" />
         <option value="$PROJECT_DIR$/src/d1/Attribute/AccessModifier.java" />
-        <option value="$PROJECT_DIR$/src/d1/Attribute/Person.java" />
         <option value="$PROJECT_DIR$/src/d1/Attribute/Main.java" />
+        <option value="$PROJECT_DIR$/src/d1/Methods/Product.java" />
+        <option value="$PROJECT_DIR$/src/d1/Attribute/Person.java" />
+        <option value="$PROJECT_DIR$/src/d1/Methods/Person.java" />
+        <option value="$PROJECT_DIR$/src/d1/Methods/Car.java" />
+        <option value="$PROJECT_DIR$/src/d1/Methods/Main.java" />
       </list>
     </option>
   </component>
@@ -135,6 +203,13 @@
               <item name="d1" type="462c0819:PsiDirectoryNode" />
               <item name="Attribute" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Rep m2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rep m2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="d1" type="462c0819:PsiDirectoryNode" />
+              <item name="Methods" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -167,13 +242,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="FirstClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="d1.FirstClass.FirstClass" />
       <module name="Rep m2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="d1.FirstClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d1.Methods.Main" />
+      <module name="Rep m2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="d1.Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,6 +284,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.FirstClass" />
       </list>
@@ -213,18 +302,18 @@
       <updated>1558369668736</updated>
       <workItem from="1558369672710" duration="3766000" />
       <workItem from="1558469146623" duration="148000" />
-      <workItem from="1558515005861" duration="815000" />
+      <workItem from="1558515005861" duration="2295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4729000" />
+    <option name="totallyTimeSpent" value="6209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25778133" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25778133" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -234,8 +323,8 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -301,17 +390,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/d1/Attribute/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/d1/Attribute/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d1/Attribute/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d1/Methods/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d1/Methods/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding>
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d1/Methods/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d1/Methods/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
         </state>
       </provider>
     </entry>
