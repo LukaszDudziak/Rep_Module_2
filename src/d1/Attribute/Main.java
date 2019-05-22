@@ -10,10 +10,16 @@ public class Main {
 
         System.out.println(first);
         System.out.println(second);
-        //System.out.println(third);
+        //System.out.println(third); //1st
 
         accessModifier.publicAttribute = "co tam";
 
-        System.out.println(accessModifier.publicAttribute);
+        System.out.println(accessModifier.publicAttribute); //2nd
+
+        Person person = new Person();
+        System.out.println(person.name);
+        System.out.println(person.surname);
+        System.out.println(person.age);
+        System.out.println(person.gender);  //3rd
     }
 }
