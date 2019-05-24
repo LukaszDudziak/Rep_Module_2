@@ -9,4 +9,5 @@ public class AdvancedCalculator extends Calculator {
         this.operations.add(a +" ^ "+ b +" = "+ result);
         return result;
     }
+
 }
