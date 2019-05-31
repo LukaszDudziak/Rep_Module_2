@@ -7,6 +7,15 @@ public class CartItem {
     public CartItem() {
     }
 
+    public CartItem(Product product, int quantity) {
+        this.product = product;
+        this.quantity = quantity;
+    }
+
+    public CartItem(Product product) {
+        this.product = product;
+    }
+
     public Product getProduct() {
         return product;
     }
