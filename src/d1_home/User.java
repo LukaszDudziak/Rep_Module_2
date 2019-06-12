@@ -3,10 +3,8 @@ package d1_home;
 import java.util.ArrayList;
 import java.util.List;
 
-public class User {
-    private int id;
-    private String firstName;
-    private String lastName;
+public class User extends Person{
+
     private List<Book> books = new ArrayList<>();
 
     public int getId() {

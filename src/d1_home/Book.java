@@ -10,6 +10,8 @@ public class Book {
     private List<Author> authors;
     private User currentUser;
 
+    public Book() {
+    }
 
     public Book(int id, String title) {
         this.id = id;

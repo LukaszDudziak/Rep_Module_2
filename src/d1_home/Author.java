@@ -1,10 +1,10 @@
 package d1_home;
 
-public class Author {
-    private int id;
-    private String firstName;
-    private String lastName;
+public class Author extends Person {
+
     private String pseudonym;
+
+
 
     public Author(int id, String firstName, String lastName, String pseudonym) {
         this.id = id;
