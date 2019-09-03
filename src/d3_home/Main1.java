@@ -21,9 +21,9 @@ public class Main1 {
 
     public String query10 = "SELECT * FROM offers WHERE price*2 < 50000 AND promoted = 1;";
 
-    public String query11 = "";
+    public String query11 = "SELECT COUNT(*) AS sum_active FROM offers WHERE status = 1 AND UNIX_TIMESTAMP(NOW()) < UNIX_TIMESTAMP(expire)";
 
-    public String query12 = "";
+    public String query12 = "SELECT owner, COUNT(*) AS sum_user FROM offers WHERE status = 1 AND UNIX_TIMESTAMP(NOW()) < UNIX_TIMESTAMP(expire) GROUP BY owner";
 
     public String query13 = "";
 
